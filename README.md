@@ -8,3 +8,4 @@ I will write it down when I finish reading it
 |Bounded Coordinate-Descent for Biological Sequence Classification in High Dimensional Predictor Space|Greedy Coordinate-Descent,Sequence Classification,LR,SVM|KDD2011|梯度有界坐标下降+LR/SVM进行对比实验|实验证明应用坐标下降后平后误差率方面更优|1904|
 |Comparison of Modern Stochastic Optimization Algorithms|Gradient-based Optimization Algorithms,softMax regression|University of Edinburgh2014|GD/SGD/S2GD/SAG四种方法分别通过逻辑回归和softmax回归实现并对比|大规模问题中,SGD算法更好；S2GD和SAG能提供更高的精度|1904|
 |Feature Learning for Activity Recognition in Ubiquitous Computing|Activity Recognition,Feature Learning|Newcastle University|采用PCA和深层信念网络进行特征学习,基于对信号的逐帧经验累积分布的估计替代传感器数据|与启发式选择的特征进行比较来评估特征学习方法的能力，发现自动估计的特征优于经典的启发式特征|1905|
+|Recognizing Smoking Gestures with Inertial Sensors on a Wristband|Smoking Gestures Recognition,Mobile Ccomputing,Wearables,IMU|International Conference on Mobile Systems2014|利用惯性测量单元结合人手部动画轨迹识别并区分出吸烟动作|accuracy 95.7%,precision 91% and recall 81%|1906|
